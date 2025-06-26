@@ -1,4 +1,4 @@
---wearedvs obfuscator
+--wearedvin obfuscator
 
 local _0x1a2b3c=game:GetService(string.char(82,101,112,108,105,99,97,116,101,100,83,116,111,114,97,103,101)).Events[string.char(90,70,75,76,70,95,72)]
 local _0x4d5e6f=game:GetService(string.char(80,108,97,121,101,114,115)).LocalPlayer
